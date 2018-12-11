@@ -1,0 +1,12 @@
+[submodule "free-programming-books"]
+	path = free-programming-books
+	url = git@github.com:EbookFoundation/free-programming-books.git
+[submodule "free-programming-books-zh_CN"]
+	path = free-programming-books-zh_CN
+	url = git@github.com:justjavac/free-programming-books-zh_CN.git
+[submodule "practical-programming-books"]
+	path = practical-programming-books
+	url = git@github.com:EZLippi/practical-programming-books.git
+[submodule "awesome-programming-books"]
+	path = awesome-programming-books
+	url = git@github.com:royeo/awesome-programming-books.git
